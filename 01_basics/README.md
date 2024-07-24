@@ -1,0 +1,9 @@
+# LangChain基础教程
+- 01_llm_app_LCEL.ipynb
+    - 简单的langchain、langsmith和langserve的使用
+- 02_chatbot.ipynb
+    - 聊天机器人
+- 03_Vector_stores_and_retrievers.ipynb
+    - 向量存储和检索
+- -4_build_agent.ipynb
+    - 构建一个Agent
